@@ -30,8 +30,6 @@ body {
 }
 
 .square {
-  /* width: 30px; */
-  /* height: 30px; */
   background-color: #7a78f3;
   border: 1px solid black;
   box-sizing: border-box;
